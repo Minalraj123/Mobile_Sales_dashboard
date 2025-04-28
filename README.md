@@ -1,6 +1,7 @@
 # 🛠 Steps to Create a Mobile Sales Dashboard in Power BI
 **1. Prepare the Data**
 You need clean and structured sales data first.
+
 **Typical columns:**
 
 Order ID
